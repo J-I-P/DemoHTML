@@ -86,10 +86,14 @@ a.project1-button{
 	left: -21px;
 }
 
+section#project2{
+	margin-top: 50px;
+}
+
 div#project2{
 	margin-left: 851px;
 	position: absolute;
-	top: 131px;
+	top: 483px;
 	left: 0px;
 	width: 466px;
 }
@@ -104,10 +108,14 @@ a.project2-button{
 	left: -21px;
 }
 
+section#project3{
+	margin-top: 50px;
+}
+
 div#project3{
 	margin-left: 851px;
 	position: absolute;
-	top: 131px;
+	top: 838px;
 	left: 0px;
 	width: 466px;
 }
